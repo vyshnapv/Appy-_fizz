@@ -1,0 +1,271 @@
+*
+{
+ margin: 0;
+ padding:0;
+}
+.header
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:100%;
+    height:70px;
+    background:rgb(4, 4, 39);
+    position: fixed;
+
+
+}
+.img
+{
+    margin-left:30px;
+    width:119px;
+}   
+nav a
+{
+  color:white;
+  margin-right: 52px;
+  font-size: 16px;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-right:38px;
+}
+nav a:hover
+{
+    color: red;
+}
+.aro
+{
+    margin-left:-20px;
+}
+.aro:hover
+{
+ color: white;
+}
+.fizz
+{
+    height: 850px;
+    width: 100%;
+    padding-top: -340px;
+}
+.second
+{
+    
+    width:100%;
+    height:954px;
+}
+.sec-one
+{
+    width: 50%;
+    height:954px;
+    background:black;
+    margin-top: -4px;
+}
+.des
+{
+    width:24%;
+    margin-left: 280px;
+    margin-top: 230px;
+    
+}
+.text
+{
+    color:white;
+   padding-right:25px;
+   margin-top: -335px;
+  
+   
+}
+.new
+{
+    font-size:75px;
+    text-align: center;
+   
+}
+.sec-two
+{
+    margin-top:-954px;
+    width:50%;
+    height:954px;
+    float:right;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.para1
+{
+    
+    padding-left:130px;
+    padding-top: 160px;
+    font-size:24px ;
+    line-height:1.2;
+}
+
+.para2
+{
+    padding-left:130px;
+    padding-top:30px;
+    font-size:24px;
+    line-height:1.2;
+}
+.para3
+{
+    padding-left: 130px;
+    padding-top: 30px;
+    font-size: 24px;
+    line-height: 1.2;
+}
+.pic
+{
+    margin-left:130px;
+    padding-top: 25px;
+}
+.bott
+{
+    width:100%;
+}
+.footer
+{
+    width:100%;
+    height:260px;
+    display: flex;
+    margin-top:-4px;
+}
+.footer1
+{
+    width:25%;
+    height:260px;
+ 
+}
+.foot1
+{
+ padding-left: 69px;
+ padding-top: 42px;
+}
+.footer2
+{
+    width:40%;
+    height:260px;
+}
+.foot2
+{
+    padding-left: 155px;
+    padding-top: 40px;
+}
+
+.footer-text
+{
+    padding-left: 155px;
+    line-height: 1.8;
+}
+.link1
+{
+    text-decoration: none;
+    color: black;
+    padding-top:102px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.link1:hover
+{
+    color: rgb(196, 23, 23);
+    text-decoration: underline;
+}
+.link2
+{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.link2:hover
+{
+    color: rgb(196, 23, 23);
+    text-decoration: underline;
+}
+.link3
+{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.link3:hover
+{
+    color: rgb(196, 23, 23);
+    text-decoration: underline;
+}
+.link4
+{
+    text-decoration: none;
+   color: black;
+   cursor: pointer;
+   font-weight: bold;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.link4:hover
+{
+    color: rgb(196, 23, 23);
+    text-decoration: underline;
+}
+.footer3
+{
+    width:35%;
+    height:260px;
+}
+.last-class
+{
+   padding-left:23px;
+   margin-top:40px;
+}
+.last1
+{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.last1:hover
+{
+    color: rgb(196, 23, 23);
+    text-decoration: underline;
+}
+.last2
+{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    line-height: 2;
+}
+.last2:hover
+{
+    color: rgb(196, 23, 23);
+    text-decoration: underline;
+}
+.last3
+{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+}
+.last3:hover
+{
+    color: rgb(196, 23, 23);
+    text-decoration: underline;
+}
+.last4
+{
+    line-height:2;
+}
+.logo
+{
+    padding-top:10px;
+    font-size: 25px;
+}
